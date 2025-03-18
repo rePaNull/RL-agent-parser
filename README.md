@@ -21,5 +21,3 @@ Environment comprises on revelant sentiment/volatility/models with both static a
 
 Instead of truncating episodes at 20-30% drawdowns / High Water Mark thresholds which do not allow the agent to learn anything of substance,
 Episode termination/truncation is set done when A/C balance raeches 0
-
-PRICE: USD$10,000. DM FOR FULL CODE SOURCE
